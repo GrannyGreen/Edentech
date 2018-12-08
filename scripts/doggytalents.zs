@@ -37,3 +37,19 @@ recipes.addShapeless("orangecollar", collar_orange, [collar_white, <ore:dyeOrang
 
 
 
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.0"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.1"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.2"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.3"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.4"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.5"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.6"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.7"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.8"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.9"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.10"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.11"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.12"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.13"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.14"}}).addTooltip("Craft with 7 planks, 2 wool.");
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.15"}}).addTooltip("Craft with 7 planks, 2 wool.");
