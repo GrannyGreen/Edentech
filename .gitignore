@@ -1,0 +1,88 @@
+
+
+# none of these folders or files
+/.mixin.out/
+/downloads/
+/fonts/
+/journeymap/
+/local/
+/logs/
+/mods/
+/resourcepacks/
+/resources/
+/saves/
+/server-resource-packs/
+/structures/
+/tv-cache/
+/valkyrielib/
+crafttweaker.log
+minecraftinstance.json
+options.txt
+servers.dat
+usercache.json
+usernamecache.json
+
+# none of these config folders or files
+config/acronym/
+config/AdvGenerators/
+config/aroma1997/
+config/biomesoplenty/
+config/blockdropstweaker/
+config/bonsaitrees/
+config/brandon3055/
+config/carryon-scripts/
+config/cavern/
+config/codechicken/
+config/cofh/
+config/CookingForBlockheadsCompat/
+config/defaultworldgenerator-port/
+config/DLDungeonsJBG/
+config/ElevatorMod/
+config/endercore/
+config/enderio/
+config/environmentaltech/
+config/Extreme Reactors/
+config/FarmingForBlockheads/
+config/inventorypets/
+config/ironbackpacks/
+config/jei/
+config/jeresources/
+config/mekanism/
+config/nutrition/
+config/pneumaticcraft/
+config/Practical-Logistics/
+config/presets/
+config/quark_emotes/
+config/recycler/
+config/rftools/
+config/roguelike_dungeons/
+config/shadowfacts/
+config/simplegenerators/
+config/teamreborn/
+config/Tiny Progressions/
+config/traverse/
+config/valkyrielib/
+config/vc/
+config/waila/
+
+config/*.*
+
+# except for
+!config/animania.cfg
+!config/betterquesting/
+!config/defaultoptions.cfg
+!config/delivery.cfg
+!config/foamfix.cfg
+
+
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+
