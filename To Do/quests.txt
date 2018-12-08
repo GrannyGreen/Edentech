@@ -1,0 +1,64 @@
+Edentech - GrannyGreen - quests.txt
+
+<minecraft:wool>
+<minecraft:wool:1>
+<minecraft:wool:2>
+<minecraft:wool:3>
+<minecraft:wool:4>
+<minecraft:wool:5>
+<minecraft:wool:6>
+<minecraft:wool:7>
+<minecraft:wool:8>
+
+<minecraft:wool:15>
+<minecraft:wool:14>
+<minecraft:wool:13>
+<minecraft:wool:12>
+<minecraft:wool:11>
+<minecraft:wool:10>
+<minecraft:wool:9>
+
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.0"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.1"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.2"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.3"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.4"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.5"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.6"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.7"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.8"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.9"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.10"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.11"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.12"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.13"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.14"}})
+<doggytalents:dog_bed>.withTag({doggytalents: {casingId: "minecraft:planks.4", beddingId: "minecraft:wool.15"}})
+
+
+<animania:wool:6>
+<animania:wool:5>
+<animania:wool:4>
+<animania:wool:3>
+<animania:wool:2>
+<animania:wool:1>
+<animania:wool>
+
+
+//<doggytalents:wool_collar>.withTag({collar_colour: 16383998}) white
+//<doggytalents:wool_collar>.withTag({collar_colour: 1908001}) black
+//<doggytalents:wool_collar>.withTag({collar_colour: 11546150}) red
+//<doggytalents:wool_collar>.withTag({collar_colour: 6192150}) green
+//<doggytalents:wool_collar>.withTag({collar_colour: 8606770}) brown
+//<doggytalents:wool_collar>.withTag({collar_colour: 3949738}) blue
+//<doggytalents:wool_collar>.withTag({collar_colour: 8991416}) purple
+//<doggytalents:wool_collar>.withTag({collar_colour: 1481884}) cyan
+//<doggytalents:wool_collar>.withTag({collar_colour: 10329495}) light gray
+//<doggytalents:wool_collar>.withTag({collar_colour: 4673362}) gray
+//<doggytalents:wool_collar>.withTag({collar_colour: 15961002}) pink
+//<doggytalents:wool_collar>.withTag({collar_colour: 8439583}) lime
+//<doggytalents:wool_collar>.withTag({collar_colour: 16701501}) yellow
+//<doggytalents:wool_collar>.withTag({collar_colour: 3847130})  light blue
+//<doggytalents:wool_collar>.withTag({collar_colour: 13061821}) magenta
+//<doggytalents:wool_collar>.withTag({collar_colour: 16351261}) orange
+
