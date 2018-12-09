@@ -8,8 +8,6 @@ Can I make quartz meltable in smeltery and create fused quartz?
 
 Unify tiny coal
 
-Make recipe for Doggy Talent dog beds
-
 Remove Tool Rod label from sticks and bones
 
 Configure Delivery mod
@@ -17,3 +15,8 @@ Configure Delivery mod
 Write more quests
 
 Configure Default Options mod
+
+Disable Open Blocks elevators
+
+Add Morpheus mod
+
