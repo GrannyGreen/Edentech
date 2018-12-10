@@ -69,6 +69,7 @@ config/*.*
 
 # except for
 !config/animania.cfg
+!config/betterquesting/DefaultQuests.json
 !config/betterquesting/
 !config/defaultoptions.cfg
 !config/delivery.cfg
