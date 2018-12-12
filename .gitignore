@@ -13,6 +13,7 @@
 /saves/
 /server-resource-packs/
 /structures/
+/screenshots/git st
 /tv-cache/
 /valkyrielib/
 crafttweaker.log
@@ -65,14 +66,17 @@ config/valkyrielib/
 config/vc/
 config/waila/
 
+
 config/*.*
 
 # except for
 !config/animania.cfg
-!config/betterquesting/
+!config/betterquesting/*.*
 !config/defaultoptions.cfg
 !config/delivery.cfg
 !config/foamfix.cfg
+!config/hungeroverhaul/*.*
+!config/dsurround/*.*
 
 
 

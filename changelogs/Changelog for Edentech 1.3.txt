@@ -1,0 +1,63 @@
+Changelog Edentech 1.3 Beta - GrannyGreen
+
+Config changes:
+Doomlike Dungeons
+
+
+Mods added:
+Default Options
+Default World Generator
+Hunger Overhaul
+Knob Control
+Morpheus
+
+Mod removed:
+The Erebus
+Fast Leaf Decay
+Deep Dark dimension
+
+Updated mods:
+Actually Additions
+Aroma1997Core
+AutoRegLib
+Better Questing
+Biomes o' Plenty
+Brandon's Core
+Chickens
+Connected Textures Mod
+Construct's Armory
+Cucumber Library
+Doggy Talents
+Dynamic Surroundings
+Fairy Lights
+Flux Networks
+FTB Utilities
+FTB Lib
+Gravestone Mod
+Immersive Engineering
+Industrial Foregoing
+Industrial Wires
+Iron Chests
+JEI
+JAOPCA
+Just Enough Resources
+Mob Grinding Utils
+Mr Crayfish Furniture Mod
+Mr Crayfish Vehicle Mod
+Mystical Agradditions
+Mystical Agriculture
+Ore Lib
+PlusTIC
+Practical Logistics 2
+Quantum Storage
+Quark
+Reborn Core
+Reborn Storage
+Refined Storage
+Signals
+Sonar Core
+Statues
+Steve's Carts Reborn
+Storage Drawers
+Tech Reborn
+WAWLA
